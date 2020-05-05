@@ -1,0 +1,8 @@
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/install/strip.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/install/local.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/B5.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/exampleB5.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/rebuild_cache.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/edit_cache.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/install.dir
+/home/arcturus/git/bnct-bsa-geant4-baseonB5/buildB5/CMakeFiles/list_install_components.dir
