@@ -967,7 +967,7 @@ void B5DetectorConstruction::ConstructMaterials()
   nistManager->FindOrBuildMaterial("G4_Pb");
   nistManager->FindOrBuildMaterial("G4_POLYETHYLENE");
   nistManager->FindOrBuildMaterial("G4_Li");
-  nistManager->FindOrBuildMaterial("4_POLYSTYRENE");
+  nistManager->FindOrBuildMaterial("G4_POLYSTYRENE");
 
 
    // build spectrum shifter material TiF3
